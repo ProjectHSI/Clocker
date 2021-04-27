@@ -1,0 +1,25 @@
+{
+  "name": "clocker",
+  "version": "0.0.1",
+  "description": "Simple clock application in Electron",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo To be built..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectHSI/Clocker.git"
+  },
+  "author": "[Project HSI]",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ProjectHSI/Clocker/issues"
+  },
+  "homepage": "https://github.com/ProjectHSI/Clocker#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "electron-builder": "^22.10.5",
+    "node-fetch": "^2.6.1",
+    "npmlog": "^4.1.2"
+  }
+}
