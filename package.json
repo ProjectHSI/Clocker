@@ -19,7 +19,7 @@
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "electron-builder": "^22.10.5",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "npmlog": "^4.1.2"
   }
 }
